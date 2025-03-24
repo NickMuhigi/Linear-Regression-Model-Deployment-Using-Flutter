@@ -63,3 +63,9 @@ final url = 'http://192.168.1.82:8000/predict';  // Replace with your backend ad
 ### 11. Run the Flutter app
 Run the Flutter app on an emulator or connected device:
 flutter run
+
+# Video Demo
+https://www.youtube.com/watch?v=P3Xaf-dMRxY
+
+# Deployed API
+
